@@ -1,4 +1,4 @@
-###### LITA_PROJECT_CUSTOMER_DATA-ANALYSIS
+### LITA_PROJECT_CUSTOMER_DATA-ANALYSIS
 
 ### Project Title: Customer Data For Subscription Services
 
