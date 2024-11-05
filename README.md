@@ -1,6 +1,17 @@
 ### LITA_PROJECT_CUSTOMER_DATA-ANALYSIS
 
 ### Project Title: Customer Data For Subscription Services
+[Project Overview](#project-overview)
+[Data Description](#data-description)
+[Data Visualization](#data-visualization)
+[Tools Used](#tools-used)
+[Excel Files](#excel-files)
+[SQL Queries](#sql-queries)
+[Power BI Dashboards](#power-bi-dashboards)
+[Data Files](#data-files)
+[Instructions](#instructions)
+[SQL Queries Documentation](#sql-queries-documentation)
+[Visualizations](#visualizations)
 
 ### Project Overview: 
 Analysis of Customer Data for a Subscription Service to Identify Segments, Trends, Patterns, and Insights that inform business decicions, improve sales strategies, and enchance customer relationships.
@@ -145,10 +156,18 @@ Order By Total_Cancellations desc;
 ```
 
 
-----------------Total number of active and canceled subscriptions
+----------------Total number of active and canceled subscriptions----------------
+```
 Select Sum(CASE WHEN subscriptionend IS NULL THEN 1 ELSE 0 END) as Active_Subscription,
 SUM(CASE WHEN subscriptionend IS NOT NULL THEN 1 ELSE 0 END) as Canceled_Subscription
 From [dbo].[CUSTOMER'S DATA1]
 ```
 
 ### Visualization
+![CustomerData(Clean)](https://github.com/user-attachments/assets/67732e80-6c1e-4c2a-9fd0-898df615f7c1)
+![CustomerData_Pivot Table1](https://github.com/user-attachments/assets/cd104d5f-1bfc-4160-b864-299f91f92326)
+![CustomerData_Pivot Table2](https://github.com/user-attachments/assets/ce60bc7e-c814-4812-ab3f-366c598fe402)
+![Customerdata Visual](https://github.com/user-attachments/assets/c37fb997-cf86-47b2-91d4-2e1568813ad7)
+![Customerdata Visual](https://github.com/user-attachments/assets/dab488c1-d170-4d6d-9d4d-d0399a0dc550)
+
+
