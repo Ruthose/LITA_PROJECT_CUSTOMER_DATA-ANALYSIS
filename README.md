@@ -1,17 +1,17 @@
 ### LITA_PROJECT_CUSTOMER_DATA-ANALYSIS
 
 ### Project Title: Customer Data For Subscription Services
-[Project Overview](#project-overview)
-[Data Description](#data-description)
-[Data Visualization](#data-visualization)
-[Tools Used](#tools-used)
-[Excel Files](#excel-files)
-[SQL Queries](#sql-queries)
-[Power BI Dashboards](#power-bi-dashboards)
-[Data Files](#data-files)
-[Instructions](#instructions)
-[SQL Queries Documentation](#sql-queries-documentation)
-[Visualizations](#visualizations)
+- [Project Overview](#project-overview)
+- [Data Description](#data-description)
+- [Data Visualization](#data-visualization)
+- [Tools Used](#tools-used)
+- [Excel Files](#excel-files)
+- [SQL Queries](#sql-queries)
+- [Power BI Dashboards](#power-bi-dashboards)
+- [Data Files](#data-files)
+- [Instructions](#instructions)
+- [SQL Queries Documentation](#sql-queries-documentation)
+- [Visualizations](#visualizations)
 
 ### Project Overview: 
 Analysis of Customer Data for a Subscription Service to Identify Segments, Trends, Patterns, and Insights that inform business decicions, improve sales strategies, and enchance customer relationships.
