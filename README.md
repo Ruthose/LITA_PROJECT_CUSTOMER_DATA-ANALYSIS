@@ -3,7 +3,7 @@
 ### Project Title: Customer Data For Subscription Services
 
 ### Project Overview: 
-Analysis of Customer Data for a Subscription Service to Identify Segments and Trends, Patterns, and Insights that inform business decicions, improve sales strategies, and enchance customer relationships.
+Analysis of Customer Data for a Subscription Service to Identify Segments, Trends, Patterns, and Insights that inform business decicions, improve sales strategies, and enchance customer relationships.
 
 ### Tools Used
 - Excel
