@@ -57,7 +57,7 @@ The customer sales data contains information on customer purchases, including:
 - Excel: Contains Excel files for data analysis.
 - SQL: Contains SQL queries for data extraction.
 - Power BI: Contains Power BI dashboard files.
-- Data: Contains customer data(XLXS & CSV) files.
+- Data: Contains customer data(XLSX & CSV) files.
 
 
 ### Excel Files:
